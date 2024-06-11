@@ -1,2 +1,2 @@
 # diapodiagram
-tout est dans le titre
+Diagramme faisant partie de la présentation de recette
